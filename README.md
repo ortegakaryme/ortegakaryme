@@ -18,7 +18,7 @@ I still think like a strategist. I still care about craft, brands, and the peopl
 
 The difference is that now I can go from the problem to something you can click on in the same week.
 
-That's the work I want to keep doing: AI products where luxury, real estate, and creative work meet.
+That's the work I want to keep doing: turning complex business problems into AI products people actually use.
 
 Based in Mexico · Spanish, English, Italian
 
