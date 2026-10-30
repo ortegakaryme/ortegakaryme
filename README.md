@@ -29,4 +29,5 @@ Domain: luxury fashion, banking, real estate, creative and media production
 
 Global MBA, Bologna Business School · BSc Industrial Engineering, Universidad Anáhuac Based in Mexico · Open to remote work Spanish (native) · English · Italian
 
-📫 LinkedIn · ortegakaryme@gmail.com
+📫 LinkedIn · https://www.linkedin.com/in/karyme-ortega26/
+
