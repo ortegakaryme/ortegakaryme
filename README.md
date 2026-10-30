@@ -1,43 +1,33 @@
-### Hi, I'm Karyme 👋
+### Karyme Ortega
 
-I build AI products at the intersection of **luxury, real estate, and creative work**.
+For years, my job was to explain what should be built.
 
-My background is product and strategy: I've translated business needs into product requirements for a digital banking platform serving 13.5M customers (Citibanamex), evaluated a CAD 150M strategic portfolio (Scotiabank), and productized a craft-heavy prototyping workflow at **Saint Laurent** in Florence. Today I use Claude Code to turn those workflows into working prototypes.
+Now I build it.
 
----
+I've spent my career where strategy meets execution: evaluating 300+ business cases a year at Scotiabank, keeping The Home Depot, Costco, and Inditex on board through Citibanamex's separation from Citi, and planning prototype production for leather goods at Saint Laurent in Florence.
 
-### 🛠️ Selected projects
+Every time, I saw the same gap. The people who understood the problem were rarely the ones who could build the tool.
 
-**[PresenceOS](https://presenceos-cyan.vercel.app/)** · AI luxury marketing studio
-Turns a luxury property brief into a reviewed, brand-consistent marketing campaign.
-- 12 specialist agents (research, brand strategy, copy, SEO, art direction, QA) coordinated by a central Builder
-- Human-in-the-loop approval: nothing goes live until a person approves it
-- Fact validation that separates verified listing data from unsupported claims
-- Version control and targeted reruns: only the affected agents run again on each iteration
-- KPIs defined for content quality, production speed, and adoption
+AI closed that gap for me.
 
-*The public demo runs with preloaded fictional listings.*
+At Saint Laurent, I found a flaw in the planning model that underestimated workload by 33%. Then I rebuilt the logic into a simulator anyone can use.
 
-**[Prototyping Capacity Simulator](https://prototyping-capacity-calculator.vercel.app/)** · AI-assisted planning tool
-Rebuilds the capacity-planning logic I designed at Saint Laurent as an interactive tool, using synthetic data.
-- Simulates staffing, overtime, and delivery-date scenarios in real time
-- Surfaces bottlenecks and workload impact before they become delivery risks
-- Grew out of work that lifted on-time prototype delivery from 60% to 90%
+Real estate is part of my work in Mexico. So instead of writing a deck about how luxury listings could be marketed, I built a 12-agent studio that turns a property brief into a reviewed campaign.
 
----
+I still think like a strategist. I still care about craft, brands, and the people who do the work.
 
-### 🧭 What I bring
+The difference is that now I can go from the problem to something you can click on in the same week.
 
-- **Product:** discovery, requirements, roadmapping, KPI definition, Agile delivery with engineering teams
-- **AI:** multi-agent design, prompt engineering, human-in-the-loop workflows, Claude Code
-- **Domain:** luxury fashion, banking, real estate, creative and media production
+That's the work I want to keep doing: AI products where luxury, real estate, and creative work meet.
+
+Based in Mexico · Spanish, English, Italian
+
+[LinkedIn](https://www.linkedin.com/in/karyme-ortega26/)
 
 ---
 
-### 🌍 About me
+### Selected work
 
-Global MBA, Bologna Business School · BSc Industrial Engineering, Universidad Anáhuac
-Based in Mexico · Open to remote work
-Spanish (native) · English · Italian
+- **[PresenceOS](https://presenceos-cyan.vercel.app/)** · 12 AI agents turn a luxury property brief into a reviewed, brand-true campaign. Nothing goes live until a person approves it. *Public demo uses preloaded fictional listings.*
 
-📫 [LinkedIn](https://www.linkedin.com/in/karyme-ortega26/)
+- **[Prototyping Capacity Simulator](https://prototyping-capacity-calculator.vercel.app/)** · Saint Laurent's capacity-planning logic, rebuilt as an interactive what-if tool with synthetic data.
